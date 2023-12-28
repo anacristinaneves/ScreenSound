@@ -1,0 +1,14 @@
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.AssemblyInfoInputs.cache
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.AssemblyInfo.cs
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.csproj.CoreCompileInputs.cache
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\bin\Debug\net8.0\projetoScreenSound.exe
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\bin\Debug\net8.0\projetoScreenSound.deps.json
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\bin\Debug\net8.0\projetoScreenSound.runtimeconfig.json
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\bin\Debug\net8.0\projetoScreenSound.dll
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\bin\Debug\net8.0\projetoScreenSound.pdb
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.dll
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\refint\projetoScreenSound.dll
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.pdb
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\projetoScreenSound.genruntimeconfig.cache
+C:\Users\anacr_2i4kqb1\Desktop\projetoScreenSound\obj\Debug\net8.0\ref\projetoScreenSound.dll
